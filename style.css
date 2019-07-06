@@ -18,7 +18,7 @@ h6{
 
 p{
     color: white;
-    font-size: 30px;
+    font-size: 27px;
 
 }
 
@@ -26,4 +26,9 @@ p{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+}
+
+.icons{
+    height: 25.99px;
+    width: 25.99px;
 }
