@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color: #54ff65;
+}
+
+nav{
+    display: flex;
+    height: 475px;
+    background-image: url(img/banner.png);
+    margin: 0.5%;
+}
