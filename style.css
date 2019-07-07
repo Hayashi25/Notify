@@ -4,7 +4,7 @@ body{
 }
 
 nav{
-    margin: 0;
+    height: 10px;
     background-color: #2CBF60;
 }
 
@@ -13,7 +13,7 @@ header{
     height: 475px;
     width: 100%;
     background-image: url(img/banner.png);
-    margin: 0.5%;
+    margin: 0;
     justify-content: space-around; 
 }
 
@@ -66,6 +66,13 @@ span{
 .icons a:hover{
     background-color: #2CBF60;
     opacity: 1;
+}
+
+section{
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
 }
 
 footer{
